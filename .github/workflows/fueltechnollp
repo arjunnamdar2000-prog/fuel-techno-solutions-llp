@@ -1,0 +1,103 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FuelTechno Solutions LLP</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #0a3d62;
+      padding: 20px;
+      color: #fff;
+      text-align: center;
+    }
+    nav {
+      background: #07456f;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      padding: 80px 20px;
+      text-align: center;
+      background: #eaf4ff;
+    }
+    .hero h1 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #0a3d62;
+      color: #fff;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>FuelTechno Solutions LLP</h1>
+    <p>Innovating Clean Energy & Waste-to-Fuel Technologies</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="hero">
+    <h1>Smart Energy. Better Future.</h1>
+    <p>We provide sustainable energy solutions, biogas technology, and waste-to-energy systems.</p>
+  </div>
+
+  <div id="about" class="section">
+    <h2>About Us</h2>
+    <p>FuelTechno Solutions LLP is focused on developing innovative, scalable, and sustainable energy technologies. We help industries, farms, municipalities, and institutions transition to clean and profitable energy systems.</p>
+  </div>
+
+  <div id="services" class="section">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Biogas Plant Design & Setup</li>
+      <li>Waste-to-Energy Solutions</li>
+      <li>Consulting for Clean Energy Projects</li>
+      <li>Maintenance & Operational Support</li>
+    </ul>
+  </div>
+
+  <div id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p>Email: info@fueltechno.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Location: India</p>
+  </div>
+
+  <footer>
+    <p>© 2025 FuelTechno Solutions LLP. All rights reserved.</p>
+  </footer>
+</body>
+</html>
